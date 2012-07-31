@@ -1,0 +1,15 @@
+D:\Data_Pieter\GitHub\Repositories\MyRepo\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Data_Pieter\GitHub\Repositories\MyRepo\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Data_Pieter\GitHub\Repositories\MyRepo\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Data_Pieter\GitHub\Repositories\MyRepo\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data_Pieter\GitHub\Repositories\MyRepo\Calculator\Calculator\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Data_Pieter\GitHub\Repositories\MyRepo\Calculator\Calculator\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Data_Pieter\GitHub\Repositories\MyRepo\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Data_Pieter\GitHub\Repositories\MyRepo\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Data_Pieter\GitHub\Repositories\MyRepo\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\Data_Pieter\GitHub\Repositories\MyRepo\Calculator\Calculator\obj\x86\Debug\Calculator.xml
+D:\Data_Pieter\GitHub\Repositories\MyRepo\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+D:\Data_Pieter\GitHub\Repositories\MyRepo\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+D:\Data_Pieter\GitHub\Repositories\MyRepo\Calculator\Calculator\bin\Debug\Calculator.application
+D:\Data_Pieter\GitHub\Repositories\MyRepo\Calculator\Calculator\obj\x86\Debug\Calculator.exe.manifest
+D:\Data_Pieter\GitHub\Repositories\MyRepo\Calculator\Calculator\obj\x86\Debug\Calculator.application
